@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    color: white;
+    background-color: white;
+  }
+  h1 {
+    font-size: 32px;
+  }
+  h2 {
+    font-size: 24px;
+  }
+  body {
+    background-image: url('YTU.jpeg');
+    background-size: cover;
+  }
+  button {
+    color: white;
+    background-color: blue;
+    border: none;
+    font-size: 18px;
+    padding: 10px 20px;
+  }
+  button:hover {
+    background-color: darkblue;
+    
+  }  
+  <style>
+  marquee {
+    color: blue;
+    font-size: 24px;
+  }
+</style>
+
+  
