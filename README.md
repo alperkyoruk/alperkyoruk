@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **A secret project**
 
-- 🌱 I’m currently learning **Java** and **C**
+- 🌱 I’m currently learning **Python** and **C**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alperkyoruk](https://github.com/alperkyoruk)
 
