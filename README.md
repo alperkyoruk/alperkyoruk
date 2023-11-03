@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperkyoruk&label=Profile%20views&color=0e75b6&style=flat" alt="alperkyoruk" /> </p>
 
-- 🔭 I’m currently working on **A secret project**
+- 🔭 I’m currently working on **Web Applications**
 
-- 🌱 I’m currently learning **Python** and **C**
+- 🌱 I’m currently learning **GO**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alperkyoruk](https://github.com/alperkyoruk)
 
