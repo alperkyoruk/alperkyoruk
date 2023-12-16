@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Web Applications**
 
-- 🌱 I’m currently learning **GO**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alperkyoruk](https://github.com/alperkyoruk)
 
