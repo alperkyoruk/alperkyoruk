@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/alperkyoruk](https://github.com/alperkyoruk)
 
-- 💬 Ask me about **C**
+- 💬 Ask me about **Springboot**
 
 - 📫 How to reach me **alperkyoruk@gmail.com**
 
