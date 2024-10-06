@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **alperkyoruk@gmail.com**
 
-- 📄 [Here](https://www.linkedin.com/in/alper-kaan-8b2222182/) is my LinkedIn profile
+- 📄 [Here](https://www.linkedin.com/in/alperkyoruk/) is my LinkedIn profile
 
 - ⚡ Fun fact **I am awesome**
 
