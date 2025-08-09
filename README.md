@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alper</h1>
-<h3 align="center">I am a passionate third-grade student studying Mathematical Engineering at Yıldız Technical University. My primary interest lies in coding and software development. I enjoy exploring new technologies, playing video games, solving complex problems, and creating innovative solutions.</h3>
+<h3 align="center">I am a senior student studying Mathematical Engineering at Yıldız Technical University. My primary interest lies in coding and software development. I enjoy exploring new technologies, playing video games, solving complex problems, and creating innovative solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperkyoruk&label=Profile%20views&color=0e75b6&style=flat" alt="alperkyoruk" /> </p>
 
