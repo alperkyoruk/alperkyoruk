@@ -17,7 +17,7 @@
 - 📫 alperkyoruk@gmail.com
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alperkyoruk&layout=compact&theme=tokyonight" />
+  <img src="https://www.yildizliagac.com/hello.svg" />
 </p>
 
 <p align="center"><i>⚡ Ben Efsaneyim.</i></p>
